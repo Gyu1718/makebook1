@@ -1,0 +1,31 @@
+{
+  "name": "내 마음 플레이리스트 / Psalm Next Youth",
+  "intent": "청소년 플레이리스트·뮤직저널·데보셔널. 자연 묵상 느낌보다 음악 앱/카세트/이어폰/파형/트랙 카드의 정서가 우선.",
+  "palette": {
+    "paper": "#FAF7F0",
+    "cream": "#EFE7D8",
+    "sage": "#66796E",
+    "sageSoft": "#DFE8E1",
+    "coral": "#D95F53",
+    "blush": "#EADBD3",
+    "cocoa": "#66584D",
+    "ink": "#28312B",
+    "muted": "#7B756A"
+  },
+  "typography": {
+    "display": "Pretendard / Noto Sans KR, 700–900",
+    "body": "Pretendard / Noto Sans KR, 400–600",
+    "optionalSerif": "Noto Serif KR / Nanum Myeongjo",
+    "principle": "제목은 짧고 굵게, 본문은 충분한 행간. 트랙 번호와 UI 캡션은 작고 단정한 산세리프."
+  },
+  "motifs": ["cassette", "earphones", "waveform", "playback controls", "playlist rows", "track number", "lyric card", "liner note", "tape/sticker"],
+  "pageGrammar": ["TRACK 번호", "제목", "Psalm pill", "player/waveform", "기분 체크", "가사", "라이너 노트", "내 가사 쓰기", "오늘의 한 소절", "기도"],
+  "qualityRules": [
+    "오브젝트를 페이지 중앙에 과밀하게 넣지 않는다.",
+    "AI 질감은 배경 전체에 반복하지 않고, 필요한 그래픽 자산에만 제한한다.",
+    "텍스트는 이미지에 굽지 않고 실제 조판 레이어를 우선한다.",
+    "이미지와 텍스트의 z-index를 분리해 언제든 위치와 글꼴을 수정 가능하게 한다.",
+    "한 페이지에 강한 시각 포인트는 1~2개만 둔다.",
+    "인쇄물은 300dpi, 전자책 fixed-layout은 150~180dpi를 기본으로 한다."
+  ]
+}
