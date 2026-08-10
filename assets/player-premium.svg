@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190">
+<defs><filter id="s" x="-10%" y="-30%" width="120%" height="180%"><feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#403730" flood-opacity=".12"/></filter></defs>
+<g filter="url(#s)"><rect x="14" y="15" width="972" height="160" rx="42" fill="#f5efe4" stroke="#7b756b" stroke-width="4"/>
+<path d="M64 69h760" stroke="#d9d0c3" stroke-width="12" stroke-linecap="round"/>
+<path d="M64 69h392" stroke="#6b7f70" stroke-width="12" stroke-linecap="round"/>
+<circle cx="456" cy="69" r="14" fill="#d46f66"/>
+<text x="63" y="118" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#5a625c">1:39</text><text x="854" y="118" font-family="Arial,sans-serif" font-size="24" fill="#817a70">3:18</text>
+<g fill="#59665d"><path d="M324 102l-32 18 32 18z"/><rect x="278" y="103" width="8" height="35" rx="4"/><path d="M560 102l32 18-32 18z"/><rect x="598" y="103" width="8" height="35" rx="4"/></g>
+<circle cx="445" cy="120" r="34" fill="#65796b"/><path d="M437 104l25 16-25 16z" fill="#fff"/>
+<path d="M189 113c-19-21-39-21-58 0 19 21 39 21 58 0zm628 0c19-21 39-21 58 0-19 21-39 21-58 0" fill="none" stroke="#8a8177" stroke-width="6" stroke-linecap="round"/>
+</g></svg>
