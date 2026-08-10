@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500">
+<defs>
+  <filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#3d342d" flood-opacity=".18"/></filter>
+  <linearGradient id="body" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d88378"/><stop offset="1" stop-color="#bd665e"/></linearGradient>
+  <linearGradient id="label" x1="0" x2="1"><stop stop-color="#f7f0df"/><stop offset="1" stop-color="#eee2cd"/></linearGradient>
+</defs>
+<g filter="url(#s)" transform="rotate(-4 380 250)">
+  <rect x="70" y="75" width="620" height="350" rx="32" fill="url(#body)" stroke="#5d4a42" stroke-width="10"/>
+  <path d="M112 98h536" stroke="#efb0a8" stroke-width="6" opacity=".65"/>
+  <rect x="124" y="118" width="512" height="174" rx="18" fill="url(#label)" stroke="#6b584f" stroke-width="6"/>
+  <text x="164" y="157" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#4e514a" letter-spacing="4">PSALM NEXT • 01</text>
+  <text x="164" y="195" font-family="Arial,sans-serif" font-size="17" fill="#7d6f62" letter-spacing="2">SIDE A / HEART PLAYLIST</text>
+  <g transform="translate(0 8)">
+    <circle cx="260" cy="236" r="56" fill="#fffaf0" stroke="#5d4a42" stroke-width="7"/>
+    <circle cx="500" cy="236" r="56" fill="#fffaf0" stroke="#5d4a42" stroke-width="7"/>
+    <circle cx="260" cy="236" r="22" fill="#6e7e6e"/>
+    <circle cx="500" cy="236" r="22" fill="#6e7e6e"/>
+    <path d="M316 236h128" stroke="#4a3f38" stroke-width="14" stroke-linecap="round" opacity=".8"/>
+    <path d="M292 236c20 20 42 31 66 33 23 2 48-6 74-24" fill="none" stroke="#3b332e" stroke-width="6" opacity=".7"/>
+  </g>
+  <path d="M205 326h350l55 68H150z" fill="#efe2cf" stroke="#5d4a42" stroke-width="7"/>
+  <circle cx="216" cy="360" r="13" fill="#56685c"/>
+  <circle cx="544" cy="360" r="13" fill="#56685c"/>
+  <circle cx="335" cy="367" r="8" fill="#cf746b"/>
+  <circle cx="425" cy="367" r="8" fill="#cf746b"/>
+  <path d="M155 115l18 17M590 383l23 19M126 361l22-11" stroke="#f6c8c1" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+</g>
+</svg>
