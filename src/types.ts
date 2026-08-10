@@ -1,4 +1,4 @@
-export type PageKind = 'cover' | 'half-title' | 'title' | 'copyright' | 'content' | 'chapter' | 'track' | 'back';
+export type PageKind = 'cover' | 'front' | 'half-title' | 'title' | 'copyright' | 'content' | 'chapter' | 'track' | 'back';
 export type ElementKind = 'text' | 'image' | 'shape' | 'line';
 export type ShapeKind = 'rect' | 'ellipse';
 
