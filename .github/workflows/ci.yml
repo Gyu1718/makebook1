@@ -17,5 +17,7 @@ jobs:
         with:
           node-version: 22
       - run: npm install
+      - name: Restore Vite source entry
+        run: cp index.source.html index.html
       - run: npm run check
       - run: npm run build
